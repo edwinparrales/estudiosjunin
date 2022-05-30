@@ -1,3 +1,3 @@
 # estudiosjunin
-## Esto es yba 
+## Esto es yuca
 Estudios junin datos
