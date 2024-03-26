@@ -1,3 +1,3 @@
-# estudiosjunin
-## Esto es yuca
+# Configuracion estudios junin
+## Parametros de configuración
 Estudios junin datos
